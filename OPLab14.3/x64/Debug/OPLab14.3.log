@@ -1,0 +1,37 @@
+﻿  OPLab14.3.cpp
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(11,103): error C2065: 'N': undeclared identifier
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(11,107): error C2065: 'M': undeclared identifier
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(11,16): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(11,16): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(11,16): message : the missing variadic argument 2 is required by format string '%d'
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(14,41): error C2065: 'N': undeclared identifier
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(14,45): error C2065: 'M': undeclared identifier
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(15,131): error C2065: 'N': undeclared identifier
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(15,135): error C2065: 'M': undeclared identifier
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(15,20): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(15,20): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(15,20): message : the missing variadic argument 2 is required by format string '%d'
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(21,55): error C2065: 'N': undeclared identifier
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(21,59): error C2065: 'M': undeclared identifier
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(32,24): error C2065: 'N': undeclared identifier
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(32,27): error C2065: 'M': undeclared identifier
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(35,23): error C3863: array type 'int [0][0]' is not assignable
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(41,25): error C2065: 'N': undeclared identifier
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(41,28): error C2065: 'M': undeclared identifier
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(44,20): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int [0][0]'
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(44,20): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int [0][0]'
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(48,1): error C2036: 'int [0][0]': unknown size
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(51,30): error C2065: 'N': undeclared identifier
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(51,33): error C2065: 'M': undeclared identifier
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(51,46): error C2065: 'N': undeclared identifier
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(51,49): error C2065: 'M': undeclared identifier
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(51,64): error C2065: 'N': undeclared identifier
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(51,67): error C2065: 'M': undeclared identifier
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(54,26): error C3863: array type 'int [0][0]' is not assignable
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(60,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(74,16): error C2065: 'N': undeclared identifier
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(74,19): error C2065: 'M': undeclared identifier
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(74,30): error C2065: 'N': undeclared identifier
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(74,33): error C2065: 'M': undeclared identifier
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(74,44): error C2065: 'N': undeclared identifier
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab14\OPLab14.3\OPLab14.3.cpp(74,47): error C2065: 'M': undeclared identifier
